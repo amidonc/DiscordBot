@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("starting.");
+            Console.WriteLine("Hello.");
         }
 
     }
